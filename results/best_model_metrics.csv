@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC AUC
+LightGBM,0.992,0.9945,0.9579,0.9759,0.9989
