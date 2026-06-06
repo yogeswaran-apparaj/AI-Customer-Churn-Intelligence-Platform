@@ -5,9 +5,7 @@
 ### *Enterprise-Grade Machine Learning & Business Intelligence for Customer Retention*
 
 <br/>
-<img width="1902" height="970" alt="image" src="https://github.com/user-attachments/assets/e3969247-5ce1-40f9-a29e-6f91b8828f33" />
-<img width="1903" height="971" alt="image" src="https://github.com/user-attachments/assets/90933536-5fc4-43d9-af9f-ee4b98479ea0" />
-<img width="1902" height="967" alt="image" src="https://github.com/user-attachments/assets/2d855058-445f-4a07-988f-da05a40ebcf8" />
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
